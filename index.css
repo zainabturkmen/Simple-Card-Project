@@ -1,0 +1,50 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #20262c;
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+article{
+    width: 300px;
+    background-color: #2f3740;
+    padding: 1.125em;
+    border-radius: 1em;
+}
+
+img{
+    width: 100%;
+    border-radius: .4em;
+    height: 310px;
+
+}
+
+.tag{
+    background-color: #283542;
+    color: #bff00b;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: .2em .6em;
+    border-radius: .4em;
+    margin-top: 1em;
+    display: inline-block;
+}
+
+h1 a{
+    color: white;
+    font-size: 2.5rem;
+    line-height: 120%;
+}
+
+a p{
+   color: white; 
+}
+
